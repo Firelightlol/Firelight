@@ -34,15 +34,15 @@
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#dc74e3",
+      "#8c74e3",
       "#060607"
     ],
     "INTERACTIVE_MUTED": [
-      "#bfb9ff",
+      "#b9dbff",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#120212",
+      "#020212",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
@@ -59,14 +59,14 @@
     ],
     "BACKGROUND_ACCENT": [
       "#120212",
-      "#747f8d"
+      "#74848d"
     ],
     "BACKGROUND_FLOATING": [
-      "#120212",
+      "#020712",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#120212",
+      "#020712",
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
@@ -78,16 +78,16 @@
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "#FFFFFF"
+      "rgba(210, 235, 255, 0.02)",
+      "#d2ebff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
+      "rgba(210, 235, 255, 0.03)",
       "hsla(214, 9.9%, 50.4%, 0.08)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.03)",
-      "hsla(214, 9.9%, 50.4%, 0.16)"
+      "rgba(81,167,245, 0.3)",
+      "hsla(209, 89%, 64%, 0.16)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "rgba(255, 255, 255, 0.04)",
@@ -150,7 +150,7 @@
     "CHAT_GREY": "#120212"
   },
   "background": {
-    "blur": 0.3,
+    "blur": 0.6,
     "url": "https://cdn.discordapp.com/attachments/1097774295352082532/1203103163402555442/hill.jpg",
     "alpha": 0.4
   }
