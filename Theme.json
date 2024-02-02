@@ -4,8 +4,8 @@
   "version": "1.0",
   "authors": [
     {
-      "name": "Madhav",
-      "id": "757530324686340197"
+      "name": "Firelightning",
+      "id": "698420848771596350"
     }
   ],
   "theme_color_map": {
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/1097774295352082532/1203090317113425990/Theme_hill_backrgound.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1097774295352082532/1203092370141483038/hill.jpg",
     "alpha": 0.4
   }
 }
